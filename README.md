@@ -1,5 +1,6 @@
 # Bert-the-bard
  Discord music bot
+ WIP
 
 
 DEPENDENCIES
