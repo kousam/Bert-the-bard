@@ -2,7 +2,7 @@ import wikipediaapi
 from BertMod import BertMod
 
 
-class Encyclopedia(BertMod):
+class Wiki(BertMod):
     def __init__(self, bert):
         super().__init__(bert)
 
@@ -29,5 +29,5 @@ class Encyclopedia(BertMod):
         
 
 def init(bert):
-    e = Encyclopedia(bert)
+    e = Wiki(bert)
     return e

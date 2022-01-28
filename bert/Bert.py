@@ -31,8 +31,8 @@ Bert is a bot
 
 class Bert(discord.Client):
     
-
-    DEFAULT_TEXT_CHANNEL = 'bert-commands'
+    # TODO Make DEFAULT_TEXT_CHANNEL selectable trough GUI
+    DEFAULT_TEXT_CHANNEL = 'bert-commands' 
 
     PREFIX = '.'
 
