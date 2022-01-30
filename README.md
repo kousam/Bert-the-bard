@@ -1,12 +1,12 @@
 # Bert-the-bard
- Discord music bot
- (WIP)
-
+ Discord bot with ability to easily create and add mods
+ WIP  
+ 
 
 
 DEPENDENCIES
 
-Python
+Python Libraries
 - discord.py
 - PyQt5
 - asyncqt
